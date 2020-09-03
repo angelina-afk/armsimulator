@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/vArm.unity
+    guid: 83c661817575641ffbe8358545f48475
+  - enabled: 0
+    path: Assets/Scenes/arms&piano.unity
+    guid: 40b92d9d778fc44b2805bd8dad5f8ac4
+  - enabled: 0
+    path: Assets/Scenes/OneBall.unity
+    guid: fe838708def0642a78bc7de076e6e2b8
+  - enabled: 1
+    path: Assets/Scenes/SeveralBalls.unity
+    guid: eee0113f06f1a4872ae43eeae7a07b30
+  m_configObjects: {}

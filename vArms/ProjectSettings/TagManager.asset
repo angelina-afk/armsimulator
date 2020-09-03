@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ring
+  - Pinky
+  - Middle
+  - Index
+  - Finger
+  - Cube
+  - FemaleAvatar
+  - MaleAvatar
+  - Avater
+  - Avatar
+  - CubeWidth
+  - CubeXCoord
+  - CubeYCoord
+  - CubeRotationAngle
+  - Settings
+  - CubeExplosionBool
+  - ExplosionAngle
+  - CubeScaleZ
+  - ExplosionSystem
+  - MaxIndexAngleFemale
+  - MaxIndexAngleMale
+  - BubbleSystem
+  - BallFragment
+  - Ball
+  - hook
+  - rope
+  - thumb
+  - IndexBias
+  - ThumbBias
+  - CubeZCoord
+  - Cube0
+  - TimerDuration
+  - BallsCount
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - keyboard
+  - plane
+  - ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
